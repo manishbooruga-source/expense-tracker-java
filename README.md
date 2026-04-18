@@ -1,4 +1,4 @@
-#Expense tracker (console based)
+//Expense tracker (console based)
 
 import java.util.ArrayList;
 import java.util.Scanner;
